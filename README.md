@@ -1,3 +1,5 @@
+<img src="https://sites.google.com/site/adambmantz/_/rsrc/1425929804653/work/contours/wtg4_w.png" width=30%>
+
 This repository contains plain-text representations of parameter confidence contours from cosmology papers. Things will be added if/when I feel like it.
 
 This is a repository for *contours*, not Markov chains. The idea is to facilitate making quick plots to compare published results, not to re-weight, resample or otherwise fiddle with those results.
