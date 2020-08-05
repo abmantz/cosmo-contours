@@ -17,7 +17,7 @@ Forking and pull-requesting additions is welcome. There is no standard required 
   * provides any other information that would be helpful. It isn't necessary to exhaustively note the cosmological model being fit, what priors were used, etc., provided that information is available from the referenced paper. But, e.g., explicitly stating the confidence levels would be nice.
 
 How does one come up with the actual numeric contour paths?
-* From other people's figures, they can be manually "picked" off of a countour plot image/shreenshot using a tool such as [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) or, for the more senior contributor, [Dexter](https://sourceforge.net/projects/dexter/) (which may still be included in (HEASOFT)[https://heasarc.gsfc.nasa.gov/lheasoft/download.html]).
+* From other people's figures, they can be manually "picked" off of a countour plot image/shreenshot using a tool such as [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) or, for the more senior contributor, [Dexter](https://sourceforge.net/projects/dexter/) (which may still be included in [HEASOFT](https://heasarc.gsfc.nasa.gov/lheasoft/download.html)).
 * For your own figures:
   * You can/should be using software that provides the contour paths rather than just producing a plot, because it's ridiculous not to.
   * But if, for some reason, you're using a Python package that only provides you with a `matplotlib` plot, there is a solution for extracting contours [here](https://stackoverflow.com/questions/18304722/python-find-contour-lines-from-matplotlib-pyplot-contour).
