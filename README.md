@@ -22,3 +22,5 @@ How does one come up with the actual numeric contour paths?
   * You can/should be using software that provides the contour paths rather than just producing a plot, because it's ridiculous not to.
   * But if, for some reason, you're using a Python package that only provides you with a `matplotlib` plot, there is a solution for extracting contours [here](https://stackoverflow.com/questions/18304722/python-find-contour-lines-from-matplotlib-pyplot-contour).
   * As a last resort, you could use the manual picking method above.
+
+For an example of how to use the data stored in this repository, see [example.ipynb](example.ipynb).
